@@ -9,7 +9,7 @@ Estudante no SESI Rio Claro e focado em Desenvolvimento de Sistemas / Tecnologia
 - 🛠️ Formação Técnica: SENAI Rio Claro
 - 🌱 Estudando atualmente: Lógica de programação, HTML, CSS, e python
 - 🎯 Objetivo: Desenvolver projetos práticos e construir uma base sólida em tecnologia
-- 📫 Contato: ryan.lima@edu.senai.br | Número: (19)99310-2861
+- 📫 Contato: ryan.lima@edu.senai.br | Número: (19) 99310-2861
 
 ### 🛠️ Tecnologias & Ferramentas em Aprendizado
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
